@@ -1,4 +1,4 @@
-# Bad_Monster_Good_Robot
+# Bad Monster, Good Robot
 A little game. 
 <br>
 Final assignment for the Advanced Course in Programming 
